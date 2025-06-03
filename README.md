@@ -30,7 +30,7 @@ A **modular, Python-powered system** for tracking and analyzing weightlifting wo
 ## 🧱 Features
 
 ### 🔥 Workout Data Recording
-- Interactive script `record_workout.py` to **prompt you** for each set’s success/failure.
+- Interactive script `generate_workout.py` to **prompt you** for each set’s success/failure.
 - **Accurate JSON logs** for each workout, stored in the `workouts/` folder.
 
 ### 📈 Visualization & Analysis
@@ -67,21 +67,21 @@ project/
 
 Install required Python packages:
 
-pip install pandas matplotlib
+'pip install pandas matplotlib'
 
 🚀 Usage
 Record a Workout
 bash
 Copy
 Edit
-python generate_workout.py
+'python generate_workout.py'
 ✅ Prompts you to log actual set success/failure for the current workout.
 
 Visualize Data
 bash
 Copy
 Edit
-python visualize_workouts.py
+'python visualize_workouts.py'
 ✅ Generates clear plots of:
 
 Weight progression for each lift
