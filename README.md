@@ -37,7 +37,7 @@ A **modular, Python-powered system** for tracking and analyzing weightlifting wo
 - `visualize_workouts.py` script:
   - Plots **weight progression** over time for each exercise.
   - Plots **success rates** (percent of sets completed) for quality tracking.
-- **Portable, open** data—no vendor lock-in!
+- **Portable, open data** —no vendor lock-in!
 
 ### ⚙️ Weight Progression Logic
 - Increases weight **gradually** (e.g., +2.5kg or +1.25kg) only if all sets of an exercise are successful.
@@ -74,7 +74,7 @@ Record a Workout
 bash
 Copy
 Edit
-python record_workout.py
+python generate_workout.py
 ✅ Prompts you to log actual set success/failure for the current workout.
 
 Visualize Data
