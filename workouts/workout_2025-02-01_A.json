@@ -1,0 +1,121 @@
+{
+    "workout_id": "2025-02-01-A",
+    "date": "2025-02-01",
+    "program": "StrongLifts 5x5",
+    "workout_type": "A",
+    "exercises": [
+        {
+            "exercise_name": "Squat",
+            "sets": [
+                {
+                    "set_number": 1,
+                    "weight_kg": 105.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 2,
+                    "weight_kg": 105.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 3,
+                    "weight_kg": 105.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 4,
+                    "weight_kg": 105.0,
+                    "reps": 5,
+                    "successful": false
+                },
+                {
+                    "set_number": 5,
+                    "weight_kg": 105.0,
+                    "reps": 5,
+                    "successful": true
+                }
+            ],
+            "notes": ""
+        },
+        {
+            "exercise_name": "Bench Press",
+            "sets": [
+                {
+                    "set_number": 1,
+                    "weight_kg": 62.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 2,
+                    "weight_kg": 62.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 3,
+                    "weight_kg": 62.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 4,
+                    "weight_kg": 62.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 5,
+                    "weight_kg": 62.5,
+                    "reps": 5,
+                    "successful": true
+                }
+            ],
+            "notes": ""
+        },
+        {
+            "exercise_name": "Barbell Row",
+            "sets": [
+                {
+                    "set_number": 1,
+                    "weight_kg": 50.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 2,
+                    "weight_kg": 50.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 3,
+                    "weight_kg": 50.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 4,
+                    "weight_kg": 50.0,
+                    "reps": 5,
+                    "successful": false
+                },
+                {
+                    "set_number": 5,
+                    "weight_kg": 50.0,
+                    "reps": 5,
+                    "successful": true
+                }
+            ],
+            "notes": ""
+        }
+    ],
+    "metadata": {
+        "duration_min": 52,
+        "user_feeling": "tired",
+        "location": "Home Gym"
+    }
+}

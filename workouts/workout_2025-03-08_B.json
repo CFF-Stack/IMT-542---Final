@@ -1,0 +1,97 @@
+{
+    "workout_id": "2025-03-08-B",
+    "date": "2025-03-08",
+    "program": "StrongLifts 5x5",
+    "workout_type": "B",
+    "exercises": [
+        {
+            "exercise_name": "Squat",
+            "sets": [
+                {
+                    "set_number": 1,
+                    "weight_kg": 125.0,
+                    "reps": 5,
+                    "successful": false
+                },
+                {
+                    "set_number": 2,
+                    "weight_kg": 125.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 3,
+                    "weight_kg": 125.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 4,
+                    "weight_kg": 125.0,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 5,
+                    "weight_kg": 125.0,
+                    "reps": 5,
+                    "successful": true
+                }
+            ],
+            "notes": ""
+        },
+        {
+            "exercise_name": "Overhead Press",
+            "sets": [
+                {
+                    "set_number": 1,
+                    "weight_kg": 57.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 2,
+                    "weight_kg": 57.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 3,
+                    "weight_kg": 57.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 4,
+                    "weight_kg": 57.5,
+                    "reps": 5,
+                    "successful": true
+                },
+                {
+                    "set_number": 5,
+                    "weight_kg": 57.5,
+                    "reps": 5,
+                    "successful": true
+                }
+            ],
+            "notes": ""
+        },
+        {
+            "exercise_name": "Deadlift",
+            "sets": [
+                {
+                    "set_number": 1,
+                    "weight_kg": 130.0,
+                    "reps": 5,
+                    "successful": true
+                }
+            ],
+            "notes": ""
+        }
+    ],
+    "metadata": {
+        "duration_min": 44,
+        "user_feeling": "tired",
+        "location": "Home Gym"
+    }
+}
