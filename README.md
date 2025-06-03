@@ -52,5 +52,40 @@ A **modular, Python-powered system** for tracking and analyzing weightlifting wo
 ---
 
 ## 📂 Project Structure
+project/
+├── workouts/ # JSON logs for each workout
+├── Other Files/ # Files that helped along the Way, Strong Lifts 5X5, Garmin
+├── visualize_workouts.py # Data visualization script
+├── generate_workout.py # Interactive logger for recording workout data
+└── README.md # Project documentation (this file!)
 
 
+---
+
+## 📦 Installation
+
+
+Install required Python packages:
+
+pip install pandas matplotlib
+
+🚀 Usage
+Record a Workout
+bash
+Copy
+Edit
+python record_workout.py
+✅ Prompts you to log actual set success/failure for the current workout.
+
+Visualize Data
+bash
+Copy
+Edit
+python visualize_workouts.py
+✅ Generates clear plots of:
+
+Weight progression for each lift
+
+Success rate for your lifting consistency
+
+*Generated with the Assistance of ChatGPT, edited for consistency, content and cohesion.
