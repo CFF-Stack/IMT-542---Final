@@ -29,7 +29,7 @@ Ensure **sustainable tracking** across platforms, no lock-in to proprietary syst
   - Plots **success rates** (percent of sets completed) for quality tracking.
 - **Portable, open data** —no vendor lock-in!
 
-### ⚙️ Weight Progression Logic
+### Weight Progression Logic
 - Increases weight **gradually** (e.g., +2.5kg or +1.25kg) only if all sets of an exercise are successful.
 - **Caps** for each exercise to reflect realistic progression goals:
   - Squat: 150 kg
