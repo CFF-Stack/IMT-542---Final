@@ -3,7 +3,8 @@
 StrongLifts 5x5 Tracker & Visualizer
 
 A modular, Python-powered system for tracking and analyzing weightlifting workouts, with a focus on the StrongLifts 5x5 program.
-This project provides an **open, portable JSON-based information structure** to record, track, and visualize weightlifting workouts—specifically tailored for the **StrongLifts 5x5** program. It’s designed for **athletes, data analysts, and developers** who want full control over their fitness data—free from proprietary apps and platforms. By using clear field names and simple data types, this structure ensures **cross-platform compatibility** and easy integration into any workflow. Whether you’re an athlete tracking progress, a developer integrating data, or a researcher analyzing performance trends, this dataset is ready for you.
+This project provides an open, portable JSON-based information structure to record, track, and visualize weightlifting workouts—specifically tailored for the StrongLifts 5x5 program. It’s designed for users who want full control over their fitness data—free from proprietary apps and platforms. By using clear field names and simple data types, this structure ensures cross-platform compatibility and easy integration into any workflow. 
+
 ---
 
 ## Project Goals
